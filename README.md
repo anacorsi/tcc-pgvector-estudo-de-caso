@@ -89,7 +89,7 @@ O projeto realiza análise de sentimentos em tweets em português utilizando:
 
 
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **PostgreSQL** - Sistema de gerenciamento de banco de dados
 - **pgvector** - Extensão para operações vetoriais no PostgreSQL
